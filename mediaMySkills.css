@@ -1,0 +1,200 @@
+@media screen and (min-width: 1270px) {
+
+    .dropdown-block {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (min-width: 1430px) {
+    
+    .header-box-2 {
+        
+        max-width: 1050px;
+
+    }
+
+}
+
+@media screen and (max-width: 1270px) {
+
+    .dropdown-block {
+
+        display: block;
+
+    }
+
+    .header-box-2 {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (max-width: 1270px) {
+
+    .blockTopLeft,
+    .blockTopRight,
+    .blockBottomLeft,
+    .blockBottomRight {
+
+        width: 400px;
+        height: 250px;
+
+    }
+
+    .content1 {
+
+        font-size: 46px;
+        margin-left: 100px;
+        margin-top: 100px;
+
+    }
+
+    .listSkills_1 {
+
+        margin: 25px;
+
+    }
+
+    .listSkills1 {
+
+        width: 150px;
+        margin-left: 10px;
+        margin-top: 0px;
+        line-height: 35px;
+    
+    }
+
+    .listSkills2 {
+
+        width: 180px;
+        margin-left: 10px;
+        margin-top: 0px;
+        line-height: 30px;
+    
+    }
+
+    .listSkills_2 {
+
+        margin: 14px;
+    
+    }
+
+    .content2 {
+
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 370px;
+        line-height: 40px;
+
+    }
+
+    .br {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+
+    .blockTop {
+
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    
+    }
+
+    .blockBottom {
+
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    
+    }
+
+    .content1 {
+
+        font-size:58px;
+        margin-left: 55px;
+        margin-top: 80px;
+
+    }
+
+    .listSkills_1 {
+
+        margin: 25px;
+        gap: 20px;
+
+    }
+
+    .listSkills1 {
+
+        width: 130px;
+        margin-left: 10px;
+        margin-top: 10px;
+        line-height: 25px;
+    
+    }
+
+    .listSkills2 {
+
+        width: 160px;
+        margin-left: 10px;
+        margin-top: 10px;
+        line-height: 25px;
+    
+    }
+
+    .listSkills_2 {
+
+        margin: 10px;
+        gap: 10px;
+    
+    }
+
+
+    .listSkills3 {
+
+        width: 160px;
+        margin-left: 20px;
+        margin-top: 0px;
+        line-height: 24px;
+
+    }
+
+    .listSkills4 {
+
+        width: 230px;
+        line-height: 37px;
+        margin-top: 0px;
+
+    }
+
+    .content2 {
+
+        margin-left: 20px;
+        margin-top: 25px;
+        width: 330px;
+        line-height: 37px;
+        font-size: 16px;
+
+    }
+
+    .blockTopLeft,
+    .blockTopRight,
+    .blockBottomLeft,
+    .blockBottomRight {
+
+        width: 360px;
+        height: 240px;
+
+    }
+    
+}

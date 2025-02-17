@@ -1,0 +1,1305 @@
+@media screen and (min-width: 1270px) {
+
+    .dropdown-block {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (min-width: 1630px) {
+
+    .card {
+
+        width: 300px;
+        height: 290px;
+
+    }
+    
+}
+
+@media screen and (min-width: 1430px) {
+    
+    .header-box-2 {
+        
+        max-width: 1050px;
+
+    }
+
+}
+
+@media screen and (max-width: 1630px) {
+
+    .card {
+
+        width: 280px;
+        height: 270px;
+
+    }
+    
+}
+
+@media screen and (max-width: 1270px) {
+
+    .dropdown-block {
+
+        display: block;
+
+    }
+
+}
+
+@media screen and (max-width: 1270px) {
+
+    .header-box-2 {
+
+        display: none;
+
+    }
+
+    .container-aboutMe-text {
+
+        margin-left: 70px;
+        font-size: 56px;
+
+    }
+
+    .img-1 {
+
+        width: 900px;
+
+    }
+
+    .card {
+
+        /* width: 210px;
+        height: 200px; */
+        width: 230px;
+        height: 220px;
+        font-size: 20px;
+
+    }
+
+    .card-img {
+
+        width: 120px;
+
+    }
+
+    .container-mySkills-title-1 {
+
+        font-size: 28px;
+
+    }
+
+    .container-mySkills-title-2 {
+
+        font-size: 60px;
+
+    }
+
+    .container-mySkills-text {
+
+        font-size: 18px;
+
+    }
+
+    .container-mySkills-ul-1 {
+
+        font-size: 20px;
+
+    }
+
+    .container-mySkills-ul-2 {
+
+        font-size: 20px;
+
+    }
+
+    .my-info-card-text-1 {
+
+        font-size: 64px;
+
+    }
+
+    .my-info-card-text-2 {
+
+        font-size: 26px;
+
+    }
+
+    .my-info-card-text-3 {
+
+        font-size: 22px;
+
+    }
+
+    .my-info-line {
+
+        width: 270px;
+
+    }
+
+    .info-card {
+
+        width: 270px;
+
+    }
+
+    .my-info-ul {
+
+        margin-left: 30px;
+
+    }
+
+    .text-bottom-1 {
+
+        font-size: 50px;
+
+    }
+
+    .text-bottom-2 {
+
+        font-size: 18px;
+
+    }
+
+    .my-experiance-title {
+
+        font-size: 50px;
+
+    }
+
+    .my-experiance-text {
+
+        font-size: 18px;
+        height: 120px;
+        line-height: 35px;
+        width: 630px;
+
+    }
+
+    .my-experiance-title-1 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-text-1 {
+
+        font-size: 18px;
+
+    }
+
+    .my-experiance-title-text-bottom-1 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-2 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-text-2 {
+
+        font-size: 18px;
+
+    }
+
+    .my-experiance-title-text-bottom-2 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-3 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-text-3 {
+
+        font-size: 18px;
+
+    }
+
+    .my-experiance-title-text-bottom-3 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-4 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-title-text-4 {
+
+        font-size: 18px;
+
+    }
+
+    .my-experiance-title-text-bottom-4 {
+
+        font-size: 20px;
+
+    }
+
+    .my-experiance-button-bottom {
+
+        width: 360px;
+
+    }
+
+    /* .footer-img {
+
+        width: ;
+
+    } */
+
+    .footer-box-p-2 {
+
+        font-size: 16px;
+
+    }
+
+    .footer-box {
+
+        height: 120px;
+
+    }
+
+    footer {
+
+        height: 150px;
+
+    }
+
+}
+
+@media screen and (max-width: 1150px) {
+
+    .footer-box {
+
+        border-left: none;
+
+    }
+
+    .footer-p1 {
+
+        display: none;
+
+    }
+
+    .footer-p2 {
+
+        display: none;
+
+    }
+
+    .footer-img {
+
+        width: 50px;
+        margin-top: 20px;
+
+    }
+    
+    .footer-img-map {
+        
+        width: 65px;
+        
+    }
+
+    .info-card {
+
+        height: 350px;
+        width: 240px;
+
+    }
+
+    .my-info-block-1 {
+
+        padding-bottom: 0px;
+
+    }
+
+    .my-info-block-2 {
+
+        padding-bottom: 0px;
+        padding-top: 70px;
+
+    }
+    
+    .my-info-line {
+
+        width: 240px;
+
+    }
+
+    .my-info-card-text-1 {
+
+        font-size: 54px;
+
+    }
+
+    .my-info-card-text-2 {
+
+        font-size: 20px;
+
+    }
+
+    .my-info-card-text-3 {
+
+        font-size: 18px;
+
+    }
+
+}
+
+@media screen and (max-width: 1060px) {
+
+    .card {
+        
+        height: 170px;
+        width: 180px;
+        font-size: 16px;
+    
+    }
+
+    .card-img {
+
+        width: 100px;
+
+    }
+
+    .container-mySkills-left-block {
+
+        display: none;
+
+    }
+
+    .container-mySkills-middle-block {
+
+        display: none;
+
+    }
+
+    .container-mySkills-right-block {
+
+        display: none;
+
+    }
+
+    .container-mySkills {
+
+        grid-template-columns: repeat(4, 10% 40% 40% 10%);
+        grid-template-rows: repeat(3, 1fr);
+
+    }
+
+    .container-mySkills-middle-block-block {
+
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 4;
+        width: 350px;
+        margin-left: 40px;
+
+    }
+
+    .container-mySkills-right-block-block {
+
+        grid-column-start: 3;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        grid-row-end: 4;
+        width: 350px;
+        margin-left: 40px;
+
+    }
+
+    .container-mySkills {
+
+        height: 1100px;
+
+    }
+
+}
+
+@media screen and (min-width: 1060px) {
+
+    .container-mySkills-title-1-1 {
+
+        display: none;
+
+    }
+
+    .container-mySkills-title-2-2 {
+
+        display: none;
+
+    }
+
+    .container-mySkills-text-text {
+
+        display: none;
+
+    }
+
+    .container-mySkills-button-button {
+
+        display: none;
+
+    }
+
+    .container-mySkills-middle-block-block {
+
+        display: none ;
+
+    }
+
+    .container-mySkills-right-block-block {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (max-width: 950px) {
+
+    .img-1 {
+
+        width: 700px;
+        margin-top: 50px;
+
+    }
+
+    .container-aboutMe-text {
+
+        font-size: 46px;
+        margin-left: 20px;
+
+    }
+
+    .container-aboutMe-p {
+
+        padding-top: 30px;
+
+    }
+
+    .container-aboutMe-button {
+
+        width: 220px;
+        height: 45;
+        margin-top: 50px;
+
+    }
+
+    .card {
+
+        width: 150px;
+        height: 140px;
+        font-size: 14px;
+
+    }
+
+    .card-img {
+
+        width: 70px;
+
+    }
+
+    .my-experiance-title-text-bottom-1 {
+
+        margin-top: 230px;
+
+    }
+
+    .my-experiance-title-text-bottom-2 {
+
+        margin-top: 230px;
+
+    }
+
+    .my-experiance-title-text-bottom-3 {
+
+        margin-top: 230px;
+
+    }
+
+    .my-experiance-title-text-bottom-4 {
+
+        margin-top: 230px;
+
+    }
+
+}
+
+@media screen and (min-width: 850px) {
+
+    .my-info-block-1-1 {
+
+        display: none;
+
+    }
+
+    .my-info-block-2-2 {
+
+        display: none;
+
+    }
+
+    .my-info-block-3-3 {
+
+        display: none;
+
+    }
+
+    .my-info-block-4-4 {
+
+        display: none;
+
+    }
+
+    .my-info-ul-ul {
+
+        display: none;
+
+    }
+
+    .text-bottom-1-1 {
+
+        display: none;
+
+    }
+
+    .text-bottom-2-2 {
+
+        display: none;
+
+    }
+
+    .my-info-text-1-1 {
+
+        display: none;
+
+    }
+
+    .my-info-text-2-2 {
+
+        display: none;
+
+    }
+    
+    .two-ul {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+
+    .my-info-block-1 {
+
+        display: none;
+
+    }
+
+    .my-info-block-2 {
+
+        display: none;
+
+    }
+
+    .my-info-block-3 {
+
+        display: none;
+
+    }
+
+    .my-info-block-4 {
+
+        display: none;
+
+    }
+
+    .my-info-ul {
+
+        display: none;
+
+    }
+
+    .text-bottom-1 {
+
+        display: none;
+
+    }
+
+    .text-bottom-2 {
+
+        display: none;
+
+    }
+
+    .my-info {
+
+        grid-template-columns: repeat(4, 10% 40% 40% 10%);
+        grid-template-rows: repeat(4, 1fr);
+        
+    }
+
+    .my-info-block-1-1 {
+
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row: 2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+
+    }
+
+    .my-info-block-2-2 {
+
+        grid-column-start: 3;
+        grid-column-end: 3;
+        grid-row: 2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+
+    }
+
+    .my-info-block-3-3 {
+
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row: 3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+
+    }
+
+    .my-info-block-4-4 {
+
+        grid-column-start: 3;
+        grid-column-end: 3;
+        grid-row: 3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+
+    }
+
+    .my-info-text-1-1 {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row: 1;
+
+    }
+
+    .my-info-text-2-2 {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row: 1;
+
+    }
+
+    .text-bottom-1-1 {
+        
+        font-size: 45px;
+
+    }
+    
+    .text-bottom-2-2 {
+
+        margin-top: 350px;
+        font-size: 20px;
+
+    }
+
+    .my-info-ul-ul {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row: 4;
+        width: 69vw;
+        margin-left: 6vw;
+        margin-bottom: 100px;
+
+    }
+
+    .my-info {
+
+        height: 3300px;
+
+    }
+
+    .container-card {
+
+        padding: 0px 25px 0px 25px;
+
+    }
+
+    .container-mySkills-middle-block-block {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 2;
+        grid-row-end: 4;
+        width: 100%;
+        margin-left: 8vw;
+        
+    }
+
+    .container-mySkills-ul-1-1 {
+
+        width: 75vw;
+
+    }
+
+    .container-mySkills-right-block-block {
+
+        display: none;
+
+    }
+    
+    .container-mySkills {
+
+        height: auto;
+
+    }
+
+    .container-aboutMe-text {
+
+        font-size: 40px;
+
+    }
+
+    .img-1 {
+
+        width: 580px;
+
+    }
+
+    .container-aboutMe {
+
+        height: 500px;
+
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+
+    .card {
+
+        width: 120px;
+        height: 110px;
+
+    }
+
+    .card-img {
+
+        width: 50px;
+
+    }
+
+    .card p {
+
+        font-size: 9px;
+        margin-bottom: -10px;
+
+    }
+
+    .container-aboutMe-button {
+
+        width: 200px;
+        height: 50px;
+        font-size: 16px;
+
+    }
+
+    .my-experiance-title-text-bottom-1 {
+
+        margin-top: 260px;
+
+    }
+
+    .my-experiance-title-text-bottom-2 {
+
+        margin-top: 260px;
+
+    }
+
+    .my-experiance-title-text-bottom-3 {
+
+        margin-top: 260px;
+
+    }
+    
+    .my-experiance-title-text-bottom-4 {
+
+        margin-top: 260px;
+
+    }
+
+    .dropdown  {
+
+        margin-right: 30px;
+
+    }
+
+    .fixed {
+
+        display: none;
+
+    }
+    
+}
+
+@media screen and (max-width: 650px) {
+
+    .img-1 {
+
+        width: 480px;
+
+    }
+
+    .container-aboutMe-p {
+
+        font-size: 35px;
+
+    }
+
+    .container-aboutMe-text {
+
+        margin-top: 100px;
+        margin-left: 0px;
+        width: 280px;
+
+    }
+
+    .container-aboutMe {
+
+        height: 430px;
+
+    }
+
+    .container-mySkills-title-1-1 {
+
+        font-size: 24px;
+
+    }
+
+    .container-mySkills-title-2-2 {
+
+        font-size: 58px;
+
+    }
+
+    .text-bottom-2-2 {
+
+        margin-top: 430px;
+
+    }
+
+    .text-bottom-1-1 {
+
+        font-size: 45px;
+
+    }
+
+    .my-info {
+
+        height: 3400px;
+
+    }
+
+    .my-experiance-text {
+
+        width: 540px;
+        height: 150px;
+
+    }
+
+    .my-info-block-1-1 {
+
+        display: none;
+
+    }
+
+    .my-info-block-2-2 {
+
+        display: none;
+
+    }
+
+    .my-info-block-3-3 {
+
+        display: none;
+
+    }
+
+    .my-info-block-4-4 {
+
+        display: none;
+
+    }
+
+    .my-info {
+
+        grid-template-rows: repeat(2, 900px 1fr);
+        height: 2700px;
+
+    }
+
+    .my-info-ul-ul {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row: 2;
+
+    }
+    
+}
+
+@media screen and (max-width: 580px) {
+
+    .my-experiance-text {
+
+        display: none;
+
+    }
+
+    .my-experience {
+
+        height: 1600px;
+
+    }
+
+    .top-title-text {
+
+        width: 100%;
+        margin: 0px;
+
+    }
+
+    .my-experiance-title {
+
+        text-align: center;
+
+    }
+
+    .my-info-text-1 {
+
+        display: none;
+
+    }
+
+    .container-card {
+
+        display: none;
+
+    }
+
+    .img-1 {
+
+        width: 350px;
+
+    }
+
+    .container-aboutMe-p {
+
+        font-size: 28px;
+
+    }
+
+    .container-aboutMe-text {
+
+        margin-top: 30px;
+
+    }
+
+    .container-aboutMe-hr {
+
+        display: none;
+
+    }
+
+    .container-aboutMe-button {
+
+        margin: 0px;
+
+    }
+
+    .container-aboutMe {
+
+        height: 350px;
+
+    }
+
+    .text-bottom-1-1 {
+
+        font-size: 40px;
+
+    }
+    
+}
+
+@media screen and (max-width: 550px) {
+
+    .text-bottom-2-2 {
+
+        margin-top: 460px;
+
+    }
+
+    .my-experiance-title-text-bottom-1 {
+
+        margin-top: 330px;
+
+    }
+
+    .my-experiance-title-text-bottom-2 {
+
+        margin-top: 330px;
+
+    }
+
+    .my-experiance-title-text-bottom-3 {
+
+        margin-top: 330px;
+
+    }
+
+    .my-experiance-title-text-bottom-4 {
+
+        margin-top: 330px;
+
+    }
+
+    .my-experience {
+
+        height: 1700px;
+
+    }
+
+    .my-experiance-button-bottom {
+
+        display: none;
+
+    }
+    
+}
+
+@media screen and (max-width: 500px) {
+
+    .img-1 {
+
+        display: none;
+
+    }
+
+    .container-aboutMe-text {
+
+        grid-column-start: 2;
+        grid-column-end: 4;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0px;
+
+    }
+
+    .container-aboutMe-p {
+
+        font-size: 36px;
+        text-align: center;
+
+    }
+
+    .text-bottom-1-1 {
+
+        font-size: 30px;
+
+    }
+
+    .my-info-ul-ul {
+
+        margin-top: 220px;
+        padding-left: 20px;
+
+    }
+
+    .my-info {
+
+        height: 2850px;
+
+    }
+
+    .footer-img {
+
+        width: 35px;
+
+    }
+
+    .my-experiance-title-text-bottom-1 {
+
+        margin-top: 380px;
+
+    }
+
+    .my-experiance-title-text-bottom-2 {
+
+        margin-top: 380px;
+
+    }
+
+    .my-experiance-title-text-bottom-3 {
+
+        margin-top: 380px;
+
+    }
+
+    .my-experiance-title-text-bottom-4 {
+
+        margin-top: 380px;
+
+    }
+
+    .my-experience {
+
+        height: 1900px;
+
+    }
+
+    .my-experiance-date-1 {
+
+        margin-right: 20px;
+
+    }
+
+    .my-experiance-date-2 {
+
+        margin-right: 20px;
+
+    }
+
+    .my-experiance-date-3 {
+
+        margin-right: 20px;
+
+    }
+
+    .my-experiance-date-4 {
+
+        margin-right: 20px;
+
+    }
+
+    .container-mySkills-title-2-2 {
+
+        font-size: 50px;
+
+    }
+
+    .my-info {
+
+        height: 3000px;
+
+    }
+
+    .my-info-ul-ul {
+
+        margin-top: 460px;
+
+    }
+
+    .li-text {
+
+        font-size: 16px;
+        padding-left: 10px;
+
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+
+    .development {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .development-title-top {
+
+        font-size: 1.5em;
+
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+    .development {
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+    .development-title-top {
+
+        font-size: 1.8em;
+
+    }
+
+}
+
+@media screen and (max-width: 370px) {
+
+    .li-title {
+
+        font-size: 15px;
+        width: 200px;
+
+    }
+
+    .li-text {
+
+        font-size: 13px;
+
+    }
+
+    .text-bottom-1-1 {
+
+        font-size: 26px;
+        line-height: 45px;
+
+    }
+
+    .text-bottom-2-2 {
+
+        line-height: 35px;
+
+    }
+    
+}
